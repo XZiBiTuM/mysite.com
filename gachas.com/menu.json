@@ -1,0 +1,22 @@
+{
+    "103661" : {
+        "name" : "Бургеры",
+        "href" : "menu#burgers",
+        "image" : "f/menu11.jpg" 
+    },
+    "103762" : {
+        "name" : "Закуски",
+        "href" : "menu#snecks",
+        "image" : "f/menu22.jpg" 
+    },
+    "103863" : {
+        "name" : "Напитки",
+        "href" : "menu#drink",
+        "image" : "f/menu33.jpg" 
+    },
+    "103964" : {
+        "name" : "Комбо",
+        "href" : "menu#combo",
+        "image" : "f/menu44.jpg" 
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "323061" : {
+        "name" : "Данж-комбо",
+        "cost" : 555,
+        "image" : "f/dangeoncombo.png" 
+    },
+    "323062" : {
+        "name" : "Гача-комбо",
+        "cost" : 660,
+        "image" : "f/dbgachiburgercombo.png"
+    },
+    "323063" : {
+        "name" : "Мастер-комбо",
+        "cost" : 430,
+        "image" : "f/mastersburgercombo.png"
+    },
+    "323064" : {
+        "name" : "Чизбургер-комбо",
+        "cost" : 360,
+        "image" : "f/chscombo.png"
+    },
+    "323065" : {
+        "name" : "Гачбургер-комбо",
+        "cost" : 300,
+        "image" : "f/gachburgercombo.png"
+    },
+    "323066" : {
+        "name" : "Тройной Гача-комбо",
+        "cost" : 860,
+        "image" : "f/burgergachi.png"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "323061" : {
+        "name" : "Миринда 0.5л",
+        "cost" : 60,
+        "image" : "f/mirinda.png" 
+    },
+    "323062" : {
+        "name" : "Липтон зеленый 0.5л",
+        "cost" : 60,
+        "image" : "f/lipton.png"
+    },
+    "323063" : {
+        "name" : "7up 0.5л",
+        "cost" : 60,
+        "image" : "f/7up.png"
+    },
+    "323064" : {
+        "name" : "Пепси 0.5л",
+        "cost" : 60,
+        "image" : "f/pepsi.png"
+    },
+    "323065" : {
+        "name" : "Пепси б/c 0.5л",
+        "cost" : 60,
+        "image" : "f/pepsilite.png"
+    },
+    "323066" : {
+        "name" : "Липтон черный 0.5л",
+        "cost" : 60,
+        "image" : "f/liptonbl.png"
+    }
+}

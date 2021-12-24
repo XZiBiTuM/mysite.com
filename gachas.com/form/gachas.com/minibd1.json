@@ -1,0 +1,32 @@
+{
+    "323761" : {
+        "name" : "Картофель по-деревенски",
+        "cost" : 80,
+        "image" : "f/potatovillage.png" 
+    },
+    "323762" : {
+        "name" : "Луковые кольца",
+        "cost" : 100,
+        "image" : "f/lookek.png"
+    },
+    "323763" : {
+        "name" : "Картофель-фри",
+        "cost" : 50,
+        "image" : "f/french.png"
+    },
+    "323764" : {
+        "name" : "Куриные ножки",
+        "cost" : 120,
+        "image" : "f/chicken.png"
+    },
+    "323765" : {
+        "name" : "Куриные наггетсы",
+        "cost" : 130,
+        "image" : "f/naggets.png"
+    },
+    "323766" : {
+        "name" : "Чипсы Лейс",
+        "cost" : 100,
+        "image" : "f/lays.png"
+    }
+}

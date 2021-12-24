@@ -1,0 +1,122 @@
+{
+    "323161" : {
+        "name" : "Двойной Гача-бургер",
+        "cost" : 320,
+        "image" : "f/dbgachiburger1.png" 
+    },
+    "323162" : {
+        "name" : "Данжбургер",
+        "cost" : 350,
+        "image" : "f/dungeonburger.png"
+    },
+    "323163" : {
+        "name" : "Гачбургер",
+        "cost" : 150,
+        "image" : "f/gachburger.png"
+    },
+    "323164" : {
+        "name" : "Двойной Данжбургер",
+        "cost" : 450,
+        "image" : "f/dbdangeonburger.png"
+    },
+    "323165" : {
+        "name" : "Чизбургер",
+        "cost" : 160,
+        "image" : "f/cheeseburger.png"
+    },
+    "323166" : {
+        "name" : "Мастер-бургер",
+        "cost" : 260,
+        "image" : "f/mastersburger.png"
+    },
+    "323167" : {
+        "name" : "Картофель по-деревенски",
+        "cost" : 80,
+        "image" : "f/potatovillage.png" 
+    },
+    "323168" : {
+        "name" : "Луковые кольца",
+        "cost" : 100,
+        "image" : "f/lookek.png"
+    },
+    "323169" : {
+        "name" : "Картофель-фри",
+        "cost" : 50,
+        "image" : "f/french.png"
+    },
+    "323170" : {
+        "name" : "Куриные ножки",
+        "cost" : 120,
+        "image" : "f/chicken.png"
+    },
+    "323171" : {
+        "name" : "Куриные наггетсы",
+        "cost" : 130,
+        "image" : "f/naggets.png"
+    },
+    "323172" : {
+        "name" : "Чипсы Лейс",
+        "cost" : 100,
+        "image" : "f/lays.png"
+    },
+    "323173" : {
+        "name" : "Миринда 0.5л",
+        "cost" : 60,
+        "image" : "f/mirinda.png" 
+    },
+    "323174" : {
+        "name" : "Липтон зеленый 0.5л",
+        "cost" : 60,
+        "image" : "f/lipton.png"
+    },
+    "323175" : {
+        "name" : "7up 0.5л",
+        "cost" : 60,
+        "image" : "f/7up.png"
+    },
+    "323176" : {
+        "name" : "Пепси 0.5л",
+        "cost" : 60,
+        "image" : "f/pepsi.png"
+    },
+    "323177" : {
+        "name" : "Пепси б/c 0.5л",
+        "cost" : 60,
+        "image" : "f/pepsilite.png"
+    },
+    "323178" : {
+        "name" : "Липтон черный 0.5л",
+        "cost" : 60,
+        "image" : "f/liptonbl.png"
+    },
+    "323179" : {
+        "name" : "Данж-комбо",
+        "cost" : 555,
+        "image" : "f/dangeoncombo.png" 
+    },
+    "323180" : {
+        "name" : "Гача-комбо",
+        "cost" : 660,
+        "image" : "f/dbgachiburgercombo.png"
+    },
+    "323181" : {
+        "name" : "Мастер-комбо",
+        "cost" : 430,
+        "image" : "f/mastersburgercombo.png"
+    },
+    "323182" : {
+        "name" : "Чизбургер-комбо",
+        "cost" : 360,
+        "image" : "f/chscombo.png"
+    },
+    "323183" : {
+        "name" : "Гачбургер-комбо",
+        "cost" : 300,
+        "image" : "f/gachburgercombo.png"
+    },
+    "323184" : {
+        "name" : "Тройной Гача-комбо",
+        "cost" : 860,
+        "image" : "f/burgergachi.png"
+    }
+}

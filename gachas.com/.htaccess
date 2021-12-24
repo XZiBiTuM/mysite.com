@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /gachas.com/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /gachas.com/index.php?route=$1 [L]

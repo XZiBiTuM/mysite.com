@@ -1,0 +1,18 @@
+[22-Dec-2021 10:15:36 Europe/Moscow] PHP Warning:  require(templates/connection.php): failed to open stream: No such file or directory in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:15:36 Europe/Moscow] PHP Warning:  require(templates/connection.php): failed to open stream: No such file or directory in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:15:36 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'templates/connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:45:08 Europe/Moscow] PHP Warning:  require(form/connection.php): failed to open stream: No such file or directory in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:45:08 Europe/Moscow] PHP Warning:  require(form/connection.php): failed to open stream: No such file or directory in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:45:08 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'form/connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:45:09 Europe/Moscow] PHP Warning:  require(form/connection.php): failed to open stream: No such file or directory in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:45:09 Europe/Moscow] PHP Warning:  require(form/connection.php): failed to open stream: No such file or directory in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 10:45:09 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'form/connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/b94314/public_html/gachas.com/index.php on line 16
+[22-Dec-2021 11:13:26 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ')' in /home/b94314/public_html/gachas.com/send.php on line 36
+[22-Dec-2021 11:13:33 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ')' in /home/b94314/public_html/gachas.com/send.php on line 36
+[22-Dec-2021 11:13:35 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ')' in /home/b94314/public_html/gachas.com/send.php on line 36
+[22-Dec-2021 11:19:11 Europe/Moscow] PHP Parse error:  syntax error, unexpected '.' in /home/b94314/public_html/gachas.com/send.php on line 36
+[22-Dec-2021 11:19:21 Europe/Moscow] PHP Parse error:  syntax error, unexpected '.' in /home/b94314/public_html/gachas.com/send.php on line 36
+[22-Dec-2021 11:26:34 Europe/Moscow] PHP Parse error:  syntax error, unexpected '.' in /home/b94314/public_html/gachas.com/send.php on line 52
+[22-Dec-2021 11:41:32 Europe/Moscow] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/b94314/public_html/gachas.com/send.php on line 9
+[22-Dec-2021 11:43:34 Europe/Moscow] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/b94314/public_html/gachas.com/send.php on line 9
+[22-Dec-2021 11:43:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/b94314/public_html/gachas.com/send.php on line 9

@@ -1,0 +1,32 @@
+{
+    "323161" : {
+        "name" : "Двойной Гача-бургер",
+        "cost" : 320,
+        "image" : "f/dbgachiburger.png" 
+    },
+    "323162" : {
+        "name" : "Данжбургер",
+        "cost" : 350,
+        "image" : "f/dungeonburger.png"
+    },
+    "323163" : {
+        "name" : "Гачбургер",
+        "cost" : 150,
+        "image" : "f/gachburger.png"
+    },
+    "323164" : {
+        "name" : "Двойной Данжбургер",
+        "cost" : 450,
+        "image" : "f/dbdangeonburger.png"
+    },
+    "323165" : {
+        "name" : "Чизбургер",
+        "cost" : 160,
+        "image" : "f/cheeseburger.png"
+    },
+    "323166" : {
+        "name" : "Мастер-бургер",
+        "cost" : 260,
+        "image" : "f/mastersburger.png"
+    }
+}

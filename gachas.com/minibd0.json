@@ -1,0 +1,194 @@
+{
+    "323161" : {
+        "name" : "Двойной Гача-бургер",
+        "cost" : 320,
+        "image" : "f/dbgachiburger.png",
+        "aname" : "burgers"
+    },
+    "323162" : {
+        "name" : "Данжбургер",
+        "cost" : 350,
+        "image" : "f/dungeonburger.png",
+        "aname" : "1"
+    },
+    "323163" : {
+        "name" : "Гачбургер",
+        "cost" : 150,
+        "image" : "f/gachburger.png",
+        "aname" : "1"
+    },
+    "323164" : {
+        "name" : "Двойной Данжбургер",
+        "cost" : 450,
+        "image" : "f/dbdangeonburger.png",
+        "aname" : "1"
+    },
+    "323165" : {
+        "name" : "Витввпоппер",
+        "cost" : 160,
+        "image" : "f/cheeseburger.png",
+        "aname" : "1"
+    },
+    "323166" : {
+        "name" : "Мастер-бургер",
+        "cost" : 260,
+        "image" : "f/mastersburger.png",
+        "aname" : "1"
+    },
+    "323167" : {
+        "name" : "ГАЧА боссбурег",
+        "cost" : 430,
+        "image" : "f/gachaboss.png",
+        "aname" : "1"
+    },
+    "323168" : {
+        "name" : "Двойной ГАЧА боссбурег",
+        "cost" : 560,
+        "image" : "f/dbgachaboss.png",
+        "aname" : "1"
+    },
+    "323169" : {
+        "name" : "Картофель по-деревенски",
+        "cost" : 80,
+        "image" : "f/potatovillage.png" ,
+        "aname" : "snecks"
+    },
+    "323170" : {
+        "name" : "Луковые кольца",
+        "cost" : 100,
+        "image" : "f/lookek.png",
+        "aname" : "1"
+    },
+    "323171" : {
+        "name" : "Картофель-фри",
+        "cost" : 50,
+        "image" : "f/french.png",
+        "aname" : "1"
+    },
+    "323172" : {
+        "name" : "Куриные ножки",
+        "cost" : 120,
+        "image" : "f/chicken.png",
+        "aname" : "1"
+    },
+    "323173" : {
+        "name" : "Куриные наггетсы",
+        "cost" : 130,
+        "image" : "f/naggets.png",
+        "aname" : "1"
+    },
+    "323174" : {
+        "name" : "Сырные медальоны",
+        "cost" : 110,
+        "image" : "f/cheesemedals.png",
+        "aname" : "1"
+    },
+    "323175" : {
+        "name" : "Креветки",
+        "cost" : 190,
+        "image" : "f/kingk.png",
+        "aname" : "1"
+    },
+    "323176" : {
+        "name" : "Чипсы Лейс",
+        "cost" : 100,
+        "image" : "f/lays.png",
+        "aname" : "1"
+    },
+    "323177" : {
+        "name" : "Миринда 0.5л",
+        "cost" : 60,
+        "image" : "f/mirinda.png" ,
+        "aname" : "drink"
+    },
+    "323178" : {
+        "name" : "Липтон зеленый 0.5л",
+        "cost" : 60,
+        "image" : "f/lipton.png",
+        "aname" : "1"
+    },
+    "323179" : {
+        "name" : "7up 0.5л",
+        "cost" : 60,
+        "image" : "f/7up.png",
+        "aname" : "1"
+    },
+    "323180" : {
+        "name" : "Пепси 0.5л",
+        "cost" : 60,
+        "image" : "f/pepsi.png",
+        "aname" : "1"
+    },
+    "323181" : {
+        "name" : "Пепси б/c 0.5л",
+        "cost" : 60,
+        "image" : "f/pepsilite.png",
+        "aname" : "1"
+    },
+    "323182" : {
+        "name" : "Липтон черный 0.5л",
+        "cost" : 60,
+        "image" : "f/liptonbl.png",
+        "aname" : "1"
+    },
+    "323183" : {
+        "name" : "Латте",
+        "cost" : 50,
+        "image" : "f/latte.png",
+        "aname" : "1"
+    },
+    "323184" : {
+        "name" : "Кофе",
+        "cost" : 50,
+        "image" : "f/cofee.png",
+        "aname" : "1"
+    },
+    "323185" : {
+        "name" : "Данж-комбо",
+        "cost" : 555,
+        "image" : "f/dangeoncombo.png" ,
+        "aname" : "combo"
+    },
+    "323186" : {
+        "name" : "Гача-комбо",
+        "cost" : 660,
+        "image" : "f/dbgachiburgercombo.png",
+        "aname" : "1"
+    },
+    "323187" : {
+        "name" : "Мастер-комбо",
+        "cost" : 430,
+        "image" : "f/mastersburgercombo.png",
+        "aname" : "1"
+    },
+    "323188" : {
+        "name" : "Витввпоппер-комбо",
+        "cost" : 360,
+        "image" : "f/chscombo.png",
+        "aname" : "1"
+    },
+    "323189" : {
+        "name" : "Гачбургер-комбо",
+        "cost" : 300,
+        "image" : "f/gachburgercombo.png",
+        "aname" : "1"
+    },
+    "323190" : {
+        "name" : "Тройной Гача-комбо",
+        "cost" : 860,
+        "image" : "f/burgergachi.png",
+        "aname" : "1"
+    },
+    "323191" : {
+        "name" : "Большое комбо для боссов",
+        "cost" : 950,
+        "image" : "f/dbgachabosscombo.png",
+        "aname" : "1"
+    },
+    "323192" : {
+        "name" : "Комбо для боссов",
+        "cost" : 820,
+        "image" : "f/gachabosscombo.png",
+        "aname" : "1"
+    }
+}

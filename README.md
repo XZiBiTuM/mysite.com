@@ -1,1 +1,3 @@
 # mysite.com
+
+SCHOOL PROJECT (NO SERIOSLY)
